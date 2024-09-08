@@ -4,5 +4,5 @@
 
 ```bash
 git init
-git remote add origin HTTPS_REPOS 'TO DO
+git remote add origin HTTPS_REPOS
 ```
